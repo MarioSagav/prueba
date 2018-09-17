@@ -1,0 +1,25 @@
+h5{
+	color:#c19f5c;
+}
+
+table {
+	text-align : center;
+}
+
+.centro {
+	text-align : center;
+	margin: 0 auto;
+}
+
+.cos{
+	color:#c19f5c;
+}
+
+.box {
+    position:relative;
+}
+.bet_time {
+    position:absolute;
+    bottom:0;
+    right:0;
+}
