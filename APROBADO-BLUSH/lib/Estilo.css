@@ -102,3 +102,8 @@ footer{
 .texto4{
 	color: #928f98;
 }
+.left {
+    left: 35%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
