@@ -44,6 +44,12 @@ header{
 footer{
 	background-color:#31343b; 
 }
+
+.contenedor {
+    position: relative;
+    text-align: center;
+    color: white;
+}
 .box {
     position:relative;
 }
@@ -57,6 +63,7 @@ footer{
     text-align: center;
     color: white;
 }
+
 .button{
 	background-color: #c19f5c;
 	border : none;
